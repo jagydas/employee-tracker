@@ -21,8 +21,13 @@ run through prompts as required
 # Technology Used
 
 Node.js
+
 Javascript
+
 mySQL
 
 # Video link 
 https://watch.screencastify.com/v/sEBHplD9SYYlFO8UaM7D
+
+# Contribution
+jagydas

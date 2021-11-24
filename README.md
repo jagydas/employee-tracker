@@ -25,4 +25,4 @@ Javascript
 mySQL
 
 # Video link 
-[https://watch.screencastify.com/v/sEBHplD9SYYlFO8UaM7D](url)
+https://watch.screencastify.com/v/sEBHplD9SYYlFO8UaM7D
